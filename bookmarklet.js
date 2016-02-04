@@ -17,7 +17,7 @@ javascript:(function(){
 javascript:(function(){
 	var newtab = window.open();
 	newtab.document.write("<div id=\"loadingbefore\">loading...</div>");
-	newtab.document.write("<script src=\"http://getrekt.ga/ytdl/thing.js?v=" + parseInt(Math.random()*99999999) + "\" currenturl=\"" + window.location.pathname + window.location.search + "\" id=\"beginscript\"></scr"+"ipt>");
+	newtab.document.write("<script src=\"https://silvertriclops.github.io/ytdlr/thing.js?v=" + parseInt(Math.random()*99999999) + "\" currenturl=\"" + window.location.pathname + window.location.search + "\" id=\"beginscript\"></scr"+"ipt>");
 })();
 
 javascript:(function(){
